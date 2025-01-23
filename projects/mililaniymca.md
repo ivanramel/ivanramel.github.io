@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/mililaniymca_logo.png
 title: "Mililani YMCA 5K Charity Run"
 date: 2020
 published: true
