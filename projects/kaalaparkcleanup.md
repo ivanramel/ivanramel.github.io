@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/mililaniymca_logo.png
+image: img/kaalapark.png
 title: "Kaala Park Clean Up"
 date: 2020
 published: true
@@ -11,7 +11,7 @@ summary: "Cleaned up trash from Kaala Park mainly from a party from the previous
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/mililaniymca_logo.png" class="img-thumbnail" >
+  <img width="500px" src="../img/kaalapark.png" class="img-thumbnail" >
 </div>
 
 This project was during the summer and was about cleaning up a part of Kaala Park which contained a lot of trash from the party from the previous night. I was not alone in this endeavor as my cousin was also there to help. We were doing this as no one from the party had cleaned up their mess and also as an assignment for our summer US History and Government class. The assignment was to assist our community in one way or another that had a positive impact.
