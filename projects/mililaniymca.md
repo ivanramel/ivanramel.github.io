@@ -12,8 +12,6 @@ summary: "Assisted in encouraging and handing out water bottles to runners. Help
 
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
 The Miliani YMCA 5K Fun Run is an event where people run with the purpose of raising money for the YMCA financial assistance fund, which supports indivduals and families who aren't financially able to use YMCA programs. 
