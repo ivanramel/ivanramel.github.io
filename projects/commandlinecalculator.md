@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/clogo.png
 title: "Command Line Calculator"
 date: 2024
 published: true
@@ -11,7 +11,7 @@ summary: "Gets the user's input, using command line arguments, of a basic single
 ---
 
 <div class="text-center p-4">
-  <img width="500px" src="../img/clogo.png" class="img-thumbnail" >
+  <img width="350px" src="../img/clogo.png" class="img-thumbnail" >
 </div>
 
 The command line calculator is a program I made during my ICS 212 class in the Fall 2024 semester as a 2nd year. The purpose of this program was to make a simple calculator that could perform single digit math on two integers based on the user's input. This was to teach us about taking command line arguments from main and either perform addition, subtraction, multiplication, or division on the user inputted integers.
