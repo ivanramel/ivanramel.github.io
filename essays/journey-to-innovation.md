@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/softwareengineeringlogo.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/softwareengineeringlogo.png">
 
 ## Discovery: One Small Step for Me, One Giant Leap for my Future
 My passion for software engineering probably began in middle school. When deciding to pick a class in the 7th grade I saw a STEM class being offered. And from my minimal knowledge of STEM and what my father wanted me to be I thought it was a engineering class. So, it came to be a big shock that it was not when the teacher made the class start coding in python on the first day. At first I was confused and anxious since I had no experience in any coding languages and could not drop the class. But these feeling quickly went away as a friend of mine was also in the class, and I began to realize that coding was kind of like a ever growing complicated puzzle that never ends. This falls in line with my enjoyment as at the time, I started getting into logic puzzles like the Rubik's cube and sudoku. However, as the class went on we slowly began transitioning out of coding and just building stuff in Minecraft which was fun, but I was not learning anything about programming. 
