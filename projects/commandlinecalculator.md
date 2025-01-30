@@ -11,7 +11,7 @@ summary: "Gets the user's input, using command line arguments, of a basic single
 ---
 
 <div class="text-center p-4">
-  <img width="350px" src="../img/calculatorlogo" class="img-thumbnail" >
+  <img width="500px" src="../img/calculatorlogo" class="img-thumbnail" >
 </div>
 
 The command line calculator is a program I made during my ICS 212 class in the Fall 2024 semester as a 2nd year. The purpose of this program was to make a simple calculator that could perform single digit math on two integers based on the user's input. This was to teach us about taking command line arguments from main and either perform addition, subtraction, multiplication, or division on the user inputted integers.
