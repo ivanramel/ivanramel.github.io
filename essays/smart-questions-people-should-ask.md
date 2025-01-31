@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/markthequestionmarkguy.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/markthequestionmarkguy.png">
 
 ## Questioning your question
 How do you ask a question? Do you ask for a yes or no? Or do you ask a question that expands beyond your original one? These are things we don't think enough about because people asking for simple yes or no questions probably are not there to learn, but to get pass a roadblock they think won't be a problem down the road. This opens upon another slew of avenues of questions. If you ask yourself "is this question stupid" or "will it make me look dumb". Then you are only limiting yourself as other people around you are probably thinking the same idea, and eventually everyone will make a fool of themselves if no one speaks up to ask the question on everyone's mind. This is where asking smart questions are important as not only will you manage to get more information than you hoped for, but it will build good habits in furthur your education or knowledge of a particular subject.
