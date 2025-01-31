@@ -9,7 +9,7 @@ labels:
   - Typescript
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/softwareengineeringlogo.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/typescriptlogo.png">
 
 ## A "New" Experience
 When I heard that we were going to learn Typescript in ICS 314 I thought I wouldn't have to learn much as I already had learned a few coding languages those being, Java, C, and C++. Mainly Java as it has similarities to Javascript with the syntax and object orientation parts being the where the similarities essentially start and end. And with Typescript being a superset of Javascript all I had to do was relearn some Javascript and the new features intoduced in TypeScript. Should be easy, right? That thought quickly disappeared after the first week of ICS 314 because as I started relearning Javascript, I realized there was alot I forgot when I initially learned it back in high school. And on top of that, the exorbitant amount of features that the developers of Typescript decided to add.
