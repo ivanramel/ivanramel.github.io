@@ -23,7 +23,7 @@ console.log("Hello World");
 
 Pretty simple since its on one line and easy to understand. console.log would print out to the console, and "Hello World" is the desired message we want to print out. Now lets take a look at C.
 
-C
+C:
 ```c
 #include <stdio.h>
 
