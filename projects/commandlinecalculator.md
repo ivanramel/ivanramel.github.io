@@ -43,7 +43,7 @@ Here is a sample of my code that can be seen below:
       printf("ERROR: %c is not an integer between 0 - 9\n", argv[3][0]);
       return 1;
     }
+  }
 ```
 
 The code above is a set of error checks that inspects the argument passed though via the user and makes sure it fits in line with the rules of this specific command line calculator. This calculator only accepts two single integers and a single math operator of either a type of addition, subtraction, multiplication, or division. So in total it should only have 4 command line arguments no more, no less.
-
