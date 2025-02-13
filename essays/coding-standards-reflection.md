@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Coding Standards"
+title: "Improving the Quality of a Rock, Still Makes It a Rock"
 # All dates must be YYYY-MM-DD format!
 date: 12 Feb 2025
 published: true
 labels:
-  - Software Engineering
+  - Coding Standards
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/eslint-logo.png">
