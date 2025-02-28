@@ -12,12 +12,12 @@ labels:
 
 <!--rounded float-start pe-4-->
 
-<img width="400px" src="../img/Bootstrap_logo.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/Bootstrap_logo.png">
 
 ## Why bother with framework?
 Since we learned HTML and CSS to help us build static webpages why would need to learn a framework? Wouldn't it be better to invest our time into learning more about HTML and CSS? With enough time we can create everything that a framwork already contains such as, navbars, forms, buttons, etc. Well thats The Thing:
 
-<img width="300px" src="../img/The_Thing_HeroPortrait.png">
+<img width="400px" align="left" src="../img/The_Thing_HeroPortrait.png">
 
 We could make it, but why waste our time when its already provided by a framework. This is especially apparent when we have to make all these elements for a webpage it becomes hard to keep track of all of them and have a consistent design for the elements and the page itself. In addition, it makes it easier to maintain the code in the future. With that being said, there are many frameworks that it becomes similar to learning new programming langauges, but that can be overwhelming so where do we start? 
 
@@ -31,13 +31,13 @@ I started with Island Snow as it was an assignment for us to get used to the too
 
 This is my attempt at recreating the Island Snow webpage:
 
-<img width="500px"  src="../img/island-snow-screenshot.png">
+<img width="700px"  align="center" src="../img/island-snow-screenshot.png">
 
 The next webpage, Gyu-Kaku, was based on our choice to recreate any wabpage that we could using Bootstrap, assuming the webpage we were recreating did not already use Bootstrap. I chose the Gyu-Kaku website as I was hungry and that had a nice but simple looking website that I beileve I could recreate. And for the most part I could. Where I struggle was creating it to look exactly like the orignial which was proving more difficult than initally thought. For starters I wasted most of my time attempting to use the same fonts as the original, when I couldn't as they were not open source or avaliable on Google Fonts. Then, I tried to create a navbar without looking at the Bootstrap documentation as if I knew better than it, which was another mistake as I ran into many problems like it not scaling with the size of the window, collapsing into a dropdown when the window was small, etc. And while I finished with a working page, I did not manage to fix the things I mentioned prevoiusly as I though it would be okay, but in the future it would not be as like with coding we should always expect users to not always do things we want. 
 
 Here is what the end result looked like:
 
-<img width="500px"  src="../img/gyu-kaku-yourchoice-screenshot.png">
+<img width="700px"  align="center" src="../img/gyu-kaku-yourchoice-screenshot.png">
 
 That is why for the last webpage I made also followed the ideology I had with the Gyu-Kaku website as I did not learn my lesson. One of the problems I ran into was similar to the prevoius webpage which is the navbar and in addition, the footer, were not full width so both of their ends respectivly did not touch the edge of the webpage
 
