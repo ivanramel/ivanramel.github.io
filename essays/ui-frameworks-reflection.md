@@ -13,14 +13,14 @@ labels:
 <!--rounded float-start pe-4-->
 
 <p align="left">
-<img width="400px" src="../img/Bootstrap_logo.png">
+<img width="200px" class="float-start pe-4" src="../img/Bootstrap_logo.png">
 </p>
 
 ## Why bother with framework?
 Since we learned HTML and CSS to help us build static webpages why would need to learn a framework? Wouldn't it be better to invest our time into learning more about HTML and CSS? With enough time we can create everything that a framwork already contains such as, navbars, forms, buttons, etc. Well thats The Thing:
 
 <p align="center">
-<img width="500px" src="../img/The_Thing_HeroPortrait.png">
+<img width="300px" src="../img/The_Thing_HeroPortrait.png">
 </p>
 
 We could make it, but why waste our time when its already provided by a framework. This is especially apparent when we have to make all these elements for a webpage it becomes hard to keep track of all of them and have a consistent design for the elements and the page itself. In addition, it makes it easier to maintain the code in the future. With that being said, there are many frameworks that it becomes similar to learning new programming langauges, but that can be overwhelming so where do we start? 
