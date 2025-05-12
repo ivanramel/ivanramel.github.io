@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ""
+title: "Reflection on Use of AI"
 # All dates must be YYYY-MM-DD format!
 date: 11 May 2025
 published: true
