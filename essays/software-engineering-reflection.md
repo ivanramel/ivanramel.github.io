@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Sofrware Engineering Reflection"
+title: "Software Engineering Reflection"
 # All dates must be YYYY-MM-DD format!
 date: 14 May 2025
 published: true
