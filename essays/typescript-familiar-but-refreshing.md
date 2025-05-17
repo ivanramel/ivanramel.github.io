@@ -12,16 +12,20 @@ labels:
 <img width="400px" class="rounded float-start pe-4" src="../img/typescriptlogo.png">
 
 ## A "New" Experience
-When I heard that we were going to learn Typescript in ICS 314 I thought I wouldn't have to learn much as I already had learned a few coding languages those being, Java, C, and C++. Mainly Java as it has similarities to Javascript with the syntax and object orientation parts being the where the similarities essentially start and end. And with Typescript being a superset of Javascript all I had to do was relearn some Javascript and the new features intoduced in TypeScript. Should be easy, right? That thought quickly disappeared after the first week of ICS 314 because as I started relearning Javascript, I realized there was alot I forgot when I initially learned it back in high school. And on top of that, the exorbitant amount of features that the developers of Typescript decided to add.
+When I heard that we were going to learn TypeScript in ICS 314, I initially thought it wouldn’t be too challenging. I had already learned a few programming languages—Java, C, and C++—with Java being the one I was most familiar with. Since Java shares some similarities with JavaScript, particularly in syntax and object-oriented concepts, I assumed the transition would be smooth. And because TypeScript is a superset of JavaScript, I figured I just needed to brush up on JavaScript and learn a few new TypeScript features. It should be easy, right?
 
-After I learned Typescript for the most part, it just made me think about all these features that should be in vanilla Javascript with the main one being static typing. From all the languages I've learned during my stay at UH Manoa they all had me at least declare what data type my variable, function, etc. Javascript did not and I didn't think about that until I tried Typescript. I also like that it requires little setup compared to other programming languages I know for example outputting "Hello World" in Javascript/Typescript compared to C.
+That illusion quickly vanished after the first week of ICS 314. As I began relearning JavaScript, I realized just how much I had forgotten since first encountering it in high school. On top of that, I was surprised by the overwhelming number of new features introduced in TypeScript. The learning curve was steeper than I expected.
+
+Once I got more comfortable with TypeScript, I began to appreciate its design—especially the features that I now feel should have been in vanilla JavaScript all along. Static typing, in particular, stood out. Every other language I’ve studied at UH Mānoa required me to explicitly declare data types for variables and functions. JavaScript didn’t, and I never questioned that until I used TypeScript. The structure and discipline that static typing brings made my code feel more reliable and easier to debug.
+
+Another advantage I noticed is how little setup is required to get started with TypeScript. For example, printing “Hello, World!” is simple and concise:
 
 Javascript/Typescript:
 ```javascript
 console.log("Hello World");
 ```
 
-Pretty simple since its on one line and easy to understand. console.log would print out to the console, and "Hello World" is the desired message we want to print out. Now lets take a look at C.
+It’s straightforward—one line that clearly expresses the desired output. Compare that to 
 
 C:
 ```c
@@ -33,10 +37,19 @@ int main() {
 }
 ```
 
-...Thats something. While its not that long, it is when we directly compare it to Javascript/Typescript above, it being a whole 3 lines more. Now while I am obviously exaggerating this builds up when we big bigger and better projects.
+While the C version isn’t very long, it's noticeably more verbose. This difference becomes more significant when working on larger projects. TypeScript allows for quicker iteration and readability, which makes development more efficient.
+
 
 ## The Language to Save us All?
-While its too early for me to tell if this programming language is good from a software engineering perspective, what I can say is that while this will be a long a difficult journey in mastering, I know it will be worth it. I hope I can look back on this question and confidently say if this language is good for the industry I hope to enter.
+While it’s still too early for me to definitively judge TypeScript from a software engineering perspective, I can say that despite the challenges, I see its long-term value. Mastering this language won’t be easy, but I believe the effort will pay off. I hope that, in time, I can confidently say whether TypeScript is a good fit for the software industry I plan to enter.
 
 ## WOD can I say?
-Ah finally, talking about the dreaded WOD. But before that, lets discuss athletic software engineering which I personally think is a great way of teaching over the tradional methods I have been taught in previous ICS classes. I say this because as opposed to learning the material for one week and mostly using it for that week, mainly in a single assignment, the ASE way forces you to learn alot especially for the "weekly exam" we get each week. This makes people want to learn even material outside of the classroom to increase their knowledge on software engineering and improve their scores for the exams which leads me to talk about what the heading is about, the WOD's. A WOD is a basically an exam conducted every week which tests our knowledge about the things we learn that week, but with a grave twist, we are put under a strict time limit with so far having about 25 to 30 minutes. While this may seem like a problem to like a very small portion of students who are very adept at programming, it is to me as when I make projects like the WOD's present I usually need a few hours to code the actually thing, testing it, and eventually fixing the bugs along the way. This is on top of me also being extremely lazy. But from the two WOD's that I have done so far it is making me change my lazy habits and decide to start studying and examining more outside of class in order to fully understand it and be prepared for the weekly WOD
+
+Ah, the dreaded WOD. But before diving into that, I want to touch on the concept of Athletic Software Engineering (ASE). Personally, I think it’s a refreshing and effective teaching method, especially compared to the more traditional approaches I’ve experienced in previous ICS courses. Rather than learning a concept for just one week and applying it to a single assignment, ASE encourages continuous learning and frequent application of knowledge.
+
+Each week, we are tested through what’s known as a WOD—a "Workout of the Day." These timed coding exams assess our understanding of that week’s material. With a strict time limit, usually around 25 to 30 minutes, WODs add an element of pressure that traditional assignments lack.
+
+For students who are already confident in their programming skills, this might not be a major hurdle. But for someone like me—who typically takes a few hours to build, test, and debug a project—this format has been a significant adjustment. On top of that, I’ll admit that I tend to procrastinate. However, the WODs are slowly helping me break those habits. The two I’ve completed so far have motivated me to study more diligently and explore concepts beyond what’s covered in class. I’m learning to prepare ahead of time, manage my time more effectively, and strive for a deeper understanding of the material.
+
+## Conclusion
+This journey into TypeScript and athletic software engineering has been both humbling and eye-opening. It has challenged my assumptions, revealed gaps in my knowledge, and pushed me to adopt better study habits. Though I still have much to learn, I’m excited about the progress I’ve made and eager to continue growing as a programmer.
