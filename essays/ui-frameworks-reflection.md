@@ -17,37 +17,60 @@ labels:
 </p>
 
 ## Why bother with framework?
-Since we learned HTML and CSS to help us build static web pages why would need to learn a framework? Wouldn't it be better to invest our time into learning more about HTML and CSS? With enough time we can create everything that a framework already contains such as, navbars, forms, buttons, etc. Well that's The Thing:
+
+Since we learned HTML and CSS to help us build static web pages, why would we need to learn a framework? Wouldn’t it be better to invest our time into learning more about HTML and CSS? With enough time, we can create everything that a framework already contains such as navbar, forms, buttons, etc. Well, that’s **The Thing**:
 
 <p align="center">
 <img width="400px" src="../img/The_Thing_HeroPortrait.png">
 </p>
 
-We could make it, but why waste our time when it's already provided by a framework. This is especially apparent when we have to make all these elements for a web page it becomes hard to keep track of all of them and have a consistent design for the elements and the page itself. In addition, it makes it easier to maintain the code in the future. With that being said, there are many frameworks that become similar to learning new programming languages, but that can be overwhelming so where do we start?
+We could make it, but why waste our time when it’s already provided by a framework? This is especially apparent when we have to make all these elements for a webpage—it becomes hard to keep track of everything and maintain a consistent design across the site. Frameworks also make the code easier to maintain in the long run. That said, many frameworks can feel like learning an entirely new language, which is overwhelming. So where do we start?
 
 ## Bootstrap: Making sense of all of this
-Out of all the frameworks we probably haven't touched or heard about yet, why use Bootstrap? Well for one, it seems to be a more beginner friendly option for people like us who just learned basic HTML and CSS. It has pre-made components like buttons, forms, nav bars, etc. and it's not like we are restricted to the default design either as we can customize them just from the HTML file alone. What I mean by this is that when we create the components we usually specify the class and within the class we can customize things like margins and padding without touching the CSS. But, if our components need more customizing beyond what is given by Bootstrap we could always go to the CSS file and customize it there. What I'm trying to get across is that while Bootstrap gives us the ingredients to cook with, we aren't limited to the things they provide as we could always switch them out.
+
+Out of all the frameworks we probably haven’t touched or heard about yet, why use **Bootstrap**?
+
+For one, it seems to be a more beginner-friendly option for people like us who just learned basic HTML and CSS. It comes with pre-made components like buttons, forms, navbars, etc. And we’re not restricted to the default designs, either. You can customize many Bootstrap elements directly from the HTML file. For example, when you assign a class to a component, you can use Bootstrap utility classes to control margins, padding, alignment, and more—without needing to write a single line of CSS.
+
+If your design needs go beyond that, you can always modify the CSS file manually. What I’m trying to say is: Bootstrap gives you the ingredients to cook with, but you’re still the chef.
 
 ## My Experience with Bootstrap
-So far I've made three web pages with Bootstrap, those being: Island Snow, Gyu-Kaku, and Murphy's Bar and Grill.
 
-I started with Island Snow as it was an assignment for us to get used to the toolset of Bootstrap like building navbars, and the grid system. From that experience the webpage was built purely from Bootstrap in the index file from changing the color of text, to the color of the navbar and footer, I did not need to touch the CSS file to customize anything as it was a simple recreation of the webpage.
+So far, I’ve made three web pages with Bootstrap: **Island Snow**, **Gyu-Kaku**, and **Murphy’s Bar and Grill**.
 
-This is my attempt at recreating the Island Snow webpage:
+I started with Island Snow as part of an assignment designed to get us comfortable using Bootstrap’s toolset. We practiced building navbars and working with the grid system. The entire page was built using only Bootstrap classes inside the HTML file—from customizing text and background colors to structuring the navbar and footer. I didn’t even need to touch the CSS file because the design was relatively simple.
 
 <p align="center">
 <img width="700px" src="../img/island-snow-screenshot.png">
 </p>
 
-The next webpage, Gyu-Kaku, was based on our choice to recreate any webpage that we could using Bootstrap, assuming the webpage we were recreating did not already use Bootstrap. I chose the Gyu-Kaku website as I was hungry and it had a nice but simple looking website that I believe I could recreate. And for the most part I could. Where I struggled was creating it to look exactly like the original which was proving more difficult than initially thought. For starters I wasted most of my time attempting to use the same fonts as the original, when I couldn't as they were not open source or available on Google Fonts. Then, I tried to create a navbar without looking at the Bootstrap documentation as if I knew better than it, which was another mistake as I ran into many problems like not scaling with the size of the window, collapsing into a dropdown when the window was small, etc. And while I finished with a working page, I did not manage to fix the things I mentioned previously as I thought it would be okay, but in the future it would not be as like with coding we should always expect users to not always do things we want.
+The next webpage, **Gyu-Kaku**, was based on our choice to recreate any site, assuming it didn’t already use Bootstrap. I chose Gyu-Kaku because I was hungry—and the website looked clean and simple.
 
-Here is what the end result looked like:
+Initially, I was confident. But I quickly ran into problems trying to match the original design exactly. For starters, I wasted time trying to use the same fonts, only to find out they weren’t open source or available via Google Fonts. Then I made another mistake: I tried building the navbar without referring to Bootstrap’s documentation. I thought I could wing it.
+
+That led to issues like:
+- The navbar not scaling with window size
+- It failing to collapse into a mobile-friendly dropdown
+- Layout inconsistencies across devices
+
+Although I completed the project, those problems remained. In hindsight, ignoring the documentation was a big mistake. Just like with coding in general, we should **expect users to do things we didn’t plan for**, and design accordingly.
+
 
 <p align="center">
 <img width="700px" src="../img/gyu-kaku-yourchoice-screenshot.png">
 </p>
 
-That is why the last webpage I made also followed the ideology I had with the Gyu-Kaku website as I did not learn my lesson. One of the problems I ran into was similar to the previous webpage which is the navbar and in addition, the footer, were not full width so both of their ends respectively did not touch the edge of the webpage.
+Unfortunately, I repeated the same mistakes in my **Murphy’s Bar and Grill** webpage. Again, the navbar and footer didn’t span the full width of the page. Their edges didn’t touch the sides of the screen, which broke the look of the layout.
+
+These issues stemmed from not properly using Bootstrap’s grid system and container classes. Had I taken time to better understand how Bootstrap structures rows and columns—or checked the docs—this wouldn’t have happened.
 
 ## Conclusion
-In conclusion, frameworks are and will be helpful in our journey into building web pages since it saves time, provides consistent design, and is still very much customizable. From giving us a simple yet powerful navbar to centering our divs, it's never been easier to make a webpage, given that you put in the time and effort into learning frameworks which at first glance may be simple, but once you start actual start working with it, it becomes a nightmare at first but then you get used to it and it becomes familiar to you as you are with your favorite coding language
+
+Frameworks are—and will continue to be—essential tools in web development. They **save time**, **enforce consistent design**, and **remain highly customizable**.
+
+Bootstrap, in particular, makes it easy to:
+- Build responsive components
+- Quickly layout content with a grid system
+- Maintain design uniformity without extensive CSS
+
+But like anything worthwhile, using frameworks properly takes time and effort. At first, they can seem intimidating and even restrictive. But once you understand how to work with them—not against them—they become second nature, like your favorite programming language.
