@@ -11,7 +11,7 @@ labels:
 
 <img width="500px" class="rounded float-start pe-4" src="../img/markthequestionmarkguy.png">
 
-## Questioning your question
+## Questioning Your Question
 
 How do you ask a question? Do you seek a simple yes or no answer, or do you pose a question that expands beyond its original scope? These are considerations we often overlook. When people ask yes-or-no questions, they may not be aiming to truly learn but rather to bypass a perceived roadblock. However, this mindset can limit growth.
 
