@@ -12,15 +12,25 @@ labels:
 <img width="500px" class="rounded float-start pe-4" src="../img/markthequestionmarkguy.png">
 
 ## Questioning your question
-How do you ask a question? Do you ask for a yes or no? Or do you ask a question that expands beyond your original one? These are things we don't think enough about because people asking for simple yes or no questions probably are not there to learn, but to get pass a roadblock they think won't be a problem down the road. This opens upon another slew of avenues of questions. If you ask yourself "is this question stupid" or "will it make me look dumb". Then you are only limiting yourself as other people around you are probably thinking the same idea, and eventually everyone will make a fool of themselves if no one speaks up to ask the question on everyone's mind. This is where asking smart questions are important as not only will you manage to get more information than you hoped for, but it will build good habits in furthur your education or knowledge of a particular subject.
 
-Now you might be wondering what this has to do with software engineering. Well it has everything to do with them. As you should know by now one of the key things you should or will learn in your software engineering is that communication is key. This is mainly prevalent when working in groups as people would need to communicate with each other to breed new and innovative ideas which can lead to a great product or software as the end result. 
+How do you ask a question? Do you seek a simple yes or no answer, or do you pose a question that expands beyond its original scope? These are considerations we often overlook. When people ask yes-or-no questions, they may not be aiming to truly learn but rather to bypass a perceived roadblock. However, this mindset can limit growth.
+
+Consider this: if you ask yourself, “Is this question stupid?” or “Will this make me look dumb?”, you are only restricting your potential. Chances are, others around you are pondering the same thing. Eventually, someone has to speak up. If no one does, everyone risks remaining in ignorance.
+
+This is why asking smart questions is essential. Not only can it yield more helpful information than expected, but it also cultivates habits that support continued learning and deeper understanding.
+
+## The Role of Smart Questions in Software Engineering
+
+Now, you might wonder what any of this has to do with software engineering. The answer? Everything. As you’ll learn (or already know), communication is one of the most crucial skills in the field.
+
+When working in teams, collaboration thrives on the ability to express ideas clearly, question assumptions, and build upon each other's suggestions. Smart questions help breed innovation and foster the development of quality software.
+
 
 ## Smart Question Analysis: Code Implementation
-Linked below is a post from StackOverflow that I will be analyzing on whether or not it qualifies as a smart question:
-[Polymorphism giving error when using variable C#](https://stackoverflow.com/questions/79401749/polymorphism-giving-error-when-using-variable-c-sharp)
 
-In this question the poster explains their situation, acknowledges their current knowledge around the problem, and the question they have. In this case the poster wants how they could implement various child classes without having variables present in the base class:
+Let’s analyze a real-world example to explore what does not constitute a smart question. Below is a link to a Stack Overflow post titled [Polymorphism giving error when using variable C#](https://stackoverflow.com/questions/79401749/polymorphism-giving-error-when-using-variable-c-sharp)
+The poster presents a scenario involving polymorphism in C# and shares the following code:
+
 ```
 using System;
 
@@ -46,7 +56,47 @@ class Program
 
 ```
 
-Would this question be considered a smart question? Personally, this question does not qualify as a smart question because other than it being basic, it also seems to be a question easily answered when you know the basics. While I am not one to talk about the basics about this particular piece of code since it seems to be coded in C#, a language I have no experience in whatsoever, if we take a look at the highlighted answer to this post it says something along the lines of asking him questions before telling him is three options of, using a dynamic variable, declaring/casting the variable as certain type, or extending it use case to inherit its properties. 
+The poster attempts to assign a value to the value field through an interface-type reference, which causes a compilation error. They want to know how to use child class properties without declaring those fields in the base interface.
 
-## In conclusion...
-Asking smart questions is not only a benefit to the asker who gains more insight into a problem they probably have been mulling over for a few days, but also to the person who answered it as they could test their knowledge on the topic further their understanding because if one can teach it they understand it. This also made me think about the type of questions I ask, or lack thereof. Since I don't ask many questions I believe I understand it, but in reality I don't understand it at all as I am not asking questions, even smart ones. So one take away I can gain from this would be to ask more questions, especially smart ones to further my personal understanding of my education and to keep instructors on their toes if they don't know the answer to my question.
+## Why It’s Not a Smart Question
+
+Despite including code and stating their issue, this question does not meet the criteria of a smart question. Here's why:
+
+1. Lack of Clarity: The question lacks a clearly defined problem statement and goal.
+
+
+2. Insufficient Research: It appears that the poster hasn’t reviewed documentation or beginner tutorials, where polymorphism fundamentals are covered.
+
+
+3.  Basic Knowledge Gaps: The error is due to a misunderstanding of polymorphism and interface usage. Casting or using dynamic types could resolve the issue, but these are basic fixes.
+
+Even though I’m unfamiliar with C# specifically, the top-voted answer explains three approaches:
+
+- Use a dynamic type,
+
+- Cast to the correct child type,
+
+- Redesign the interface to include shared behavior.
+
+Instead of directly addressing the question, the answer begins by asking probing questions—suggesting the original poster hasn’t fully thought through the design.
+
+## Personal Reflection and Insights
+
+This exercise helped me reflect on my own approach to asking questions. Often, I avoid asking because I think I already understand. But if I’m not asking any questions, maybe I don’t understand as well as I think I do. Smart questions help expose blind spots, challenge assumptions, and enhance not just individual understanding, but group learning as well.
+
+Moving forward, I aim to:
+
+- Ask more questions, even when unsure,
+
+- Think critically about how I frame my inquiries,
+
+- Avoid surface-level yes/no queries,
+
+- Embrace the discomfort of not knowing.
+
+This mindset will help me grow not only as a student but as a future software engineer. It also keeps instructors accountable—if they can’t answer a good question, it might signal a gap worth exploring together.
+
+
+## Final Thoughts
+
+Asking smart questions benefits everyone: the asker gains clarity, the responder deepens their understanding, and the entire team grows. Reflecting on this Stack Overflow post, it's clear that the quality of your question significantly influences the quality of the help you receive.
